@@ -1,4 +1,4 @@
-# QELAMMPMS
+# QELAMMPS
 here're some scripts for quantum espresso 6.5.
 Tutorials - install LA$QE and configurating LA for parallel computing with omp
 Versions:
