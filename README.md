@@ -7,5 +7,5 @@ LA stable 7aug2019,
 QE 6.5.
 
 =========================NOTE=================================================
-WSL ubuntu 20.04 have some issues whith ./pwgui > xserver
+WSL ubuntu 20.04 have some issues with ./pwgui > xserver
 install xorg toolls, of GUI desktop like xfce4
